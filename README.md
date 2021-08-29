@@ -3,10 +3,10 @@
 A new Flutter project.
 
 ## Screenshot Main Page
-<img src='https://rafif-tutorial.000webhostapp.com/images/Screenshot_2021-08-29-15-52-34-17.png'> 
+<img src='https://rafif-tutorial.000webhostapp.com/images/Screenshot_2021-08-29-15-52-34-17.png' width='320' height='auto'> 
 
 ## Screenshot Detail Page
-<img src='https://rafif-tutorial.000webhostapp.com/images/Screenshot_2021-08-29-15-52-40-50.png'>
+<img src='https://rafif-tutorial.000webhostapp.com/images/Screenshot_2021-08-29-15-52-40-50.png' width='320' height='auto'>
 
 ## Getting Started
 
