@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+## Screenshot Main Page
+<img src='https://rafif-tutorial.000webhostapp.com/images/Screenshot_2021-08-29-15-52-34-17.png'> 
+
+## Screenshot Detail Page
+<img src='https://rafif-tutorial.000webhostapp.com/images/Screenshot_2021-08-29-15-52-40-50.png'>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
