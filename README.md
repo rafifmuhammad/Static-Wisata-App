@@ -1,4 +1,4 @@
-# c_project_random_1
+# Static Wisata App
 
 A new Flutter project.
 
